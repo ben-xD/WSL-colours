@@ -2,11 +2,10 @@
 **I'd say I've chosen some nice colours for Bash on Ubuntu on Windows (WSL)**
 
 **How it looks on Bash.**
-![enter image description here](https://i.imgur.com/cc1Blke.png)
+![BASH view](https://i.imgur.com/cc1Blke.png)
 
 **How it looks on VIM. (the text editor)**
-![enter image description here](https://i.imgur.com/g6uBJlZ.png)
-
+![VIM view](https://i.imgur.com/g6uBJlZ.png)
 
 **How to set it up.**
 Change all the colour slots to these RGB values in properties (Right click the title bar > Properties) to:  
@@ -28,8 +27,15 @@ Each colour slot corresponds to a certain type of text in Bash. For example, slo
 **Slot 15:** 255 102 255  
 **Slot 16:** 0 210 255  
 
+**That should end up looking like this:**
+![Properties window](https://i.imgur.com/HFFBj65.png)
+
 **Then set:**  
 Screen Text to Slot 16.  
 Screen Background to Slot 1.  
 Popup Text to Slot 1.  
 Popup Background to Slot 16.  
+
+I'm also using the Ubuntu font. 
+https://design.ubuntu.com/font/
+Download, install and go into Properties > Font to change it.
