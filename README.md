@@ -28,7 +28,7 @@ Each colour slot corresponds to a certain type of text in Bash. For example, slo
 **Slot 16:** 0 210 255  
 
 **That should end up looking like this:**
-![Properties window](https://i.imgur.com/HFFBj65.png)
+![Properties window](https://i.imgur.com/2TDGZo9.png)
 
 **Then set:**  
 Screen Text to Slot 16.  
