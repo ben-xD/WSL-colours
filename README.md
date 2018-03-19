@@ -9,7 +9,7 @@
 
 
 **How to set it up.**
-Change all the colour slots to these RGB values in properties (Right click the title bar > Properties) to: 
+Change all the colour slots to these RGB values in properties (Right click the title bar > Properties) to:  
 **Slot 1:** 50 50 55  
 **Slot 2:** 255 255 0  
 **Slot 3:** 50 50 55  
