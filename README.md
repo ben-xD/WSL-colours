@@ -10,6 +10,7 @@
 
 **How to set it up.**
 Change all the colour slots to these RGB values in properties (Right click the title bar > Properties) to:  
+Each colour slot corresponds to a certain type of text in Bash. For example, slot 11 are files with executable permission by user.  
 **Slot 1:** 50 50 55  
 **Slot 2:** 255 255 0  
 **Slot 3:** 50 50 55  
@@ -26,3 +27,9 @@ Change all the colour slots to these RGB values in properties (Right click the t
 **Slot 14:** 220 127 168  
 **Slot 15:** 255 102 255  
 **Slot 16:** 0 210 255  
+
+**Then set:**  
+Screen Text to Slot 16.  
+Screen Background to Slot 1.  
+Popup Text to Slot 1.  
+Popup Background to Slot 16.  
