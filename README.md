@@ -12,7 +12,7 @@ Change all the colour slots to these RGB values in properties (Right click the t
 Each colour slot corresponds to a certain type of text in Bash. For example, slot 11 are files with executable permission by user.  
 **Slot 1:** 50 50 55  
 **Slot 2:** 255 255 0  
-**Slot 3:** 50 50 55  
+**Slot 3:** 66 210 255  
 **Slot 4:** 6 152 154  
 **Slot 5:** 204 0 0  
 **Slot 6:** 0 255 204  
