@@ -1,5 +1,5 @@
 # WSL-colours
-**I'd say I've chosen some nice colours for Bash on Ubuntu on Windows (WSL)**
+**When you update the Ubuntu App on Windows, which runs the Windows Subsystem for Linux, the settings get reset almost all the time. You'd lose all the colour settings you creatively came up with! Here's how mine looks.**
 
 **How it looks on Bash.**
 ![BASH view](https://i.imgur.com/cc1Blke.png)
