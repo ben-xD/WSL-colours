@@ -21,7 +21,7 @@ Each colour slot corresponds to a certain type of text in Bash. For example, slo
 **Slot 9:** 85 87 83  
 **Slot 10:** 255 255 0  
 **Slot 11:** 102 255 153  
-**Slot 12:** 52 220 255  
+**Slot 12:** 100 255 100 
 **Slot 13:** 239 41 41  
 **Slot 14:** 220 127 168  
 **Slot 15:** 255 102 255  
